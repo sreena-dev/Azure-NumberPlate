@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+numpy
+pillow
+azure-storage-blob
+azure-cognitiveservices-vision-computervision
+msrest
+pyodbc
